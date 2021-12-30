@@ -1,3 +1,5 @@
+Notes: 因data文件夹中数据文件太大、并未上传至github，请至官网下载~
+
 Welcome to Assignment 3!
 
 We'll be using PyTorch for this assignment. If you're not familiar with PyTorch, or if you would like to review some of the fundamentals of PyTorch, the PyTorch review session is posted on Canvas under Course Videos.  
